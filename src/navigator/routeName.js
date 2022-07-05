@@ -1,0 +1,26 @@
+const routeName = {
+  home: 'Home',
+  Email: 'Email',
+  profile: 'Profile',
+  chats: 'Chats',
+  Jobs: 'Jobs',
+  userProfile: 'User Profile',
+  allJobs: 'Jobs',
+  bankDetails: 'Bank Details',
+  newAccount: 'New Account',
+  mySkills: 'Skills',
+  help: 'Help',
+  settings: 'Settings',
+  account: 'Account',
+  notifications: 'Notifications',
+  emailVerification: 'Email Address',
+  phoneVerification: 'Phone Number',
+  enterOtp: 'Verify',
+  manageNotifications: 'Manage Notifications',
+  deleteAccount: 'Delete Account',
+  messages: 'Messaging Vic',
+  workWithUs: 'Work With Us',
+  UserLocation:'User Location',
+};
+
+export {routeName};
